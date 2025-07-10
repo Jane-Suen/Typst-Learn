@@ -12,7 +12,7 @@ In this report, we will explore the various factors that influence _fluid dynami
 Glaciers as the one shown in @glaciers will cease to exist if we don't take action soon!
 
 #figure(
-  image("glacier.png", width: 70%), 
+  image("../img/glacier.png", width: 70%), 
   caption: [
     _Glaciers_ form an important Precipitation
     of the earch's climate system.
@@ -42,4 +42,4 @@ $ a arrow.squiggly b $
 
 
 
-#bibliography("./works.bib")
+#bibliography("../bib/works.bib")
