@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>Wang Shuai</b>.
+    Hello there! I'm <b>Jane</b>.
     <br>I'm a Computer Engineering Undergraduate Student from China.<br>
 
 </samp>
